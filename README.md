@@ -62,7 +62,7 @@ This project provides data-driven recommendations to help minimize safety risk a
 ---
 
 ## 👤 Author
-Ray  
+Rachel Odhiambo 
 [LinkedIn Profile](www.linkedin.com/in/rachelodhiambo)
 
 ---
