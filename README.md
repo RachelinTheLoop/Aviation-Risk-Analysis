@@ -54,15 +54,26 @@ This project provides data-driven recommendations to help minimize safety risk a
 
 ## 💻 Files in this Repo
 - `Projectphase1/JeffsAviation.ipynb`: Final Jupyter Notebook
-- `Projectphase1/aviation_clean.csv`: Cleaned dataset
+- `Projectphase1/Aviation_clean.csv`: Cleaned dataset
 - `Projectphase1/presentation.pdf`: Slide deck for stakeholders
 - `dashboard/`: Tableau workbook 
 - `.gitignore`: Git config file
+## File Structure
+Phase1project/
+├── data/
+│   └── Aviation_clean.csv
+├── notebooks/
+│   └── JeffsAviation.ipynb
+├── outputs/
+│   ├── Aviation_Dashboard.pdf
+│   └── Presentation.pdf
+├── README.md
+└── requirements.txt
 
 ---
 
 ## 👤 Author
-Rachel Odhiambo 
+Rachel Odhiambo- Data Scientist
 [LinkedIn Profile](www.linkedin.com/in/rachelodhiambo)
 
 ---
