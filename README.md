@@ -36,7 +36,7 @@ Interactive visualizations were created using Tableau. The following key charts 
 4. **Year vs. Number of Accidents per Make**  
    _Insight_: Accident trends vary over time—some makes improve, others worsen.
 
-**Link to Dashboard**: [Tableau Dashboard](<www.linkedin.com/in/rachelodhiambo>)
+**Link to Dashboard**: [My first Tableau Dashboard](https://public.tableau.com/app/profile/rachel.odhiambo5224/viz/AviationDashboard_17459427466250/Dashboard1)
 
 ---
 
