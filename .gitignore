@@ -1,0 +1,28 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore dataset backups and large files
+*.csv
+*.xlsx
+
+# Ignore Mac OS-specific system files
+.DS_Store
+
+# Ignore temporary or log files
+*.log
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+
+# Ignore IDE files (for example, VS Code)
+.vscode/
+
+# Ignore test files
+*.test
